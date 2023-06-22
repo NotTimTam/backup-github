@@ -1,14 +1,21 @@
 {
 	"name": "backup-github",
-	"version": "1.0.1",
+	"version": "1.0.3",
 	"description": "Open-source GitHub mass-repo backup tool.",
 	"main": "index.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"author": "",
-	"license": "ISC",
+	"license": "CC0-1.0",
 	"dependencies": {
 		"axios": "^1.4.0"
+	},
+	"repository": {
+    		"type": "git",
+    		"url": "https://github.com/NotTimTam/backup-github"
+  	},
+	"bugs": {
+		"url": "https://github.com/NotTimTam/backup-github/issues"
 	}
 }
