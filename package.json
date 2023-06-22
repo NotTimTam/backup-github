@@ -1,6 +1,6 @@
 {
 	"name": "backup-github",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"description": "Open-source GitHub mass-repo backup tool.",
 	"main": "index.js",
 	"scripts": {
@@ -22,5 +22,5 @@
 		"git",
 		"javascript",
 		"backup"
-	],
+	]
 }
